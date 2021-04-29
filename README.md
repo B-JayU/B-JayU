@@ -1,4 +1,4 @@
-# Welcome to printf("Hello ByeongJu-World") 👋
+# Welcome to printf("Hello ByeongJu-World") 👋  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYU-BYEONGJU&count_bg=%23E195EB&title_bg=%23FFF9F9&icon=&icon_color=%23686363&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![character](https://github.com/YU-BYEONGJU/YU-BYEONGJU/blob/main/character.jpeg)
 
