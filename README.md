@@ -4,7 +4,7 @@
 
 
 ## Introduction 
-- 😄 I'm a student who dreams of becoming a developer.
+- 😄 I'm a student who dreams of becoming a back-end developer.
 - 🔭 I’m currently learning algorithms and computer science majors.
 - 🌱 I’m looking for help with IT portfolio management methods and employment.
 
