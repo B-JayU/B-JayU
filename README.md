@@ -8,6 +8,10 @@
 - 🔭 I’m currently learning algorithms and computer science majors.
 - 🌱 I’m looking for help with IT portfolio management methods and employment.
 
+## Qualification
+- 2021.03 Acquisition of Computer literacy First-degree
+- 2010.06 Acquisition of Information Processing Technician
+
 ## Activity Experience
 - 2017.09 ~ 2018.02 1st Prime Supporters of Kyungpook National University Prime Business Group. (regardless of major)
 - 2018.03 ~ 2018.12 IBK Youth Hope Mentoring Scholarship-Student Mentor 1st. (regardless of major)
