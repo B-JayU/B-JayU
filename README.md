@@ -8,7 +8,7 @@
 - 🔭 I’m currently learning algorithms and computer science majors.
 - 🌱 I’m looking for help with IT portfolio management methods and employment.
 
-## Qualification
+## Certification
 - 2021.03  | Acquisition of Computer literacy First-degree
 - 2010.06  | Acquisition of Information Processing Technician
 
