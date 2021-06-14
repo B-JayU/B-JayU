@@ -27,5 +27,4 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qudwn8712)](https://solved.ac/qudwn8712)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-JayU)](https://github.com/anuraghazra/github-readme-stats)
