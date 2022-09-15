@@ -5,7 +5,8 @@
 - 🔭 I’m currently learning algorithms and computer science majors.
 - 🌱 I’m looking for help with IT portfolio management methods and employment.
 
-## Certification
+## Certification & Completion
+- 2022.08  | Completion of Samsung Electronics DX 2022 Summer University Student S/W Algorithm Competency Reinforcement Special Lecture
 - 2021.06  | Acquisition of SQL Developer
 - 2021.03  | Acquisition of Computer literacy First-degree
 - 2010.06  | Acquisition of Information Processing Technician
@@ -13,6 +14,7 @@
 ## Activity Experience
 - 2022.09 ~ 2022.11 [Internship] CJ olive networks Remote Internship 2nd
 - 2022.07 ~ 2022.09 [Project] Daegu Start-Up win-win Project ( with chosun F&B )
+- 2022.07 ~ 2022.08 Samsung Electronics DX 2022 Summer University Student S/W Algorithm Competency Reinforcement Special Lecture
 - 2019.09 ~ 2020.09 [Code Readers] Sw Student Expert in Daegu Center for Creative Economy Innovation 
 - 2018.03 ~ 2018.12 IBK Youth Hope Mentoring Scholarship-Student Mentor 1st. (regardless of major)
 - 2017.09 ~ 2018.02 1st Prime Supporters of Kyungpook National University Prime Business Group. (regardless of major) 
