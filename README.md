@@ -14,7 +14,7 @@
 ## Activity Experience
 - 2022.12.02  | UCWIT2022 Thesis Poster Session Presentation ( Content : PCB Defect Detection based on Ensemble Method )
 - 2022.09 ~ 2022.11 | [Internship] CJ olive networks Remote Internship 2nd ( with PBL Project )
-- 2022.07 ~ 2022.09 | [Project] Daegu Start-Up win-win Project ( with chosun F&B )
+- 2022.07 ~ 2022.09 | [Project] Daegu Start-Up win-win Project ( with chosun F&B ) [https://m.yeongnam.com/view.php?key=20220802010000265]
 - 2022.07 ~ 2022.08 | Samsung Electronics DX 2022 Summer University Student S/W Algorithm Competency Reinforcement Special Lecture
 - 2019.09 ~ 2020.09 | [Code Readers] Sw Student Expert in Daegu Center for Creative Economy Innovation 
 - 2018.03 ~ 2018.12 | IBK Youth Hope Mentoring Scholarship-Student Mentor 1st. (regardless of major)
