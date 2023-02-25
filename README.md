@@ -11,9 +11,10 @@
 - 2021.03  | Acquisition of Computer literacy First-degree
 - 2010.06  | Acquisition of Information Processing Technician
 
-## Activity Experience
+## Activity Experience 
+- 2023.01 ~ 2023.02 | [Real-Internship] AI LAB in CJ Olive Networks Winter Real Internship
 - 2022.12.02  | UCWIT2022 Thesis Poster Session Presentation ( Content : PCB Defect Detection based on Ensemble Method )
-- 2022.09 ~ 2022.11 | [Internship] CJ olive networks Remote Internship 2nd ( with PBL Project )
+- 2022.09 ~ 2022.11 | [Remote-Internship] CJ Olive Networks Remote Internship 2nd ( with PBL Project )
 - 2022.07 ~ 2022.09 | [Project] Daegu Start-Up win-win Project ( with chosun F&B ) [https://m.yeongnam.com/view.php?key=20220802010000265]
 - 2022.07 ~ 2022.08 | Samsung Electronics DX 2022 Summer University Student S/W Algorithm Competency Reinforcement Special Lecture
 - 2019.09 ~ 2020.09 | [Code Readers] Sw Student Expert in Daegu Center for Creative Economy Innovation 
