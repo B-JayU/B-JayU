@@ -26,9 +26,9 @@
 - 2018.11.14 : 2018 SW Convergence Hackathon Grand Prize(1st) (hosted by: Kyungpook National University Software Education Center)
 - 2018.12.19 : Excellence Prize in the Prime Start-up League Startup Program Competition (hosted by Kyungpook National University Prime Business Group)
 
-![B-JayU's github stats](https://github-readme-stats.vercel.app/api?username=B-JayU&show_icons=true)
+![B-JayU's github stats](https://github-readme-stats.vercel.app/api?username=YourBlueJustworks&show_icons=true)
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=qudwn8712)](https://solved.ac/qudwn8712)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-JayU)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourBlueJustworks)](https://github.com/anuraghazra/github-readme-stats)
